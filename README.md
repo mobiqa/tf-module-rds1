@@ -1,1 +1,1 @@
-# tf-module-rds1
+# tf-module-docdb1
